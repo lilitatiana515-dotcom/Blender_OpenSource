@@ -6,7 +6,12 @@ Desarrollado por **Lilibeth Tatiana Gomez Mantilla** y **Marlon Eduardo Laiton G
 Universitaria de Colombia — Ingeniería de Software — Aplicaciones Open Source 2026
  
 ---
- 
+
+⬇️ ¿No tienes Blender instalado?
+Descarga Blender gratis desde la página oficial:
+🔗 https://www.blender.org/download/
+Es gratuito, de código abierto y disponible para Windows, macOS y Linux.
+---
 ## 📦 Add-ons disponibles
  
 ### 1. 🔧 MultiExport Tools
