@@ -47,6 +47,17 @@ Panel de atajos rápidos con las acciones más usadas en Blender, agrupadas en s
  
 ---
  
+### 3. ⏱️ Session Timer
+Muestra cuánto tiempo llevas trabajando en la sesión actual de Blender, con opciones para pausar y reiniciar el conteo.
+ 
+**Características:**
+- Reloj en formato **HH:MM:SS** en tiempo real
+- Botón **Iniciar** para comenzar el conteo
+- Botón **Pausar** para detener el conteo temporalmente
+- Botón **Reiniciar** para volver a cero
+- Resumen con horas, minutos y segundos por separado
+- Panel integrado en la barra lateral (tecla N) → pestaña **Session Timer**
+---
 ## 🚀 Instalación
  
 Los pasos son los mismos para ambos add-ons:
