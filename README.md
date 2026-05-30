@@ -1,4 +1,4 @@
-# 🛠️ Blender Add-ons — Universitaria de Colombia
+# Blender Add-ons — Universitaria de Colombia
  
 > Colección de add-ons de código abierto para Blender, desarrollados como contribución al ecosistema open source en el contexto académico colombiano.
  
@@ -7,14 +7,14 @@ Universitaria de Colombia — Ingeniería de Software — Aplicaciones Open Sour
  
 ---
 
-⬇️ ¿No tienes Blender instalado?
+ ¿No tienes Blender instalado?
 Descarga Blender gratis desde la página oficial:
 🔗 https://www.blender.org/download/
 Es gratuito, de código abierto y disponible para Windows, macOS y Linux.
 ---
 ## 📦 Add-ons disponibles
  
-### 1. 🔧 MultiExport Tools
+### 1.  MultiExport Tools
 Exporta el objeto 3D activo en múltiples formatos de manera simultánea con un solo clic.
  
 **Formatos soportados y para qué sirve cada uno:**
@@ -33,7 +33,7 @@ Exporta el objeto 3D activo en múltiples formatos de manera simultánea con un 
 - Usa el nombre del objeto como nombre base de los archivos
 ---
  
-### 2. ⚡ Quick Actions Panel
+### 2.  Quick Actions Panel
 Panel de atajos rápidos con las acciones más usadas en Blender, agrupadas en secciones para mayor comodidad.
  
 **Acciones disponibles:**
@@ -47,7 +47,7 @@ Panel de atajos rápidos con las acciones más usadas en Blender, agrupadas en s
  
 ---
  
-### 3. ⏱️ Session Timer
+### 3.  Session Timer
 Muestra cuánto tiempo llevas trabajando en la sesión actual de Blender, con opciones para pausar y reiniciar el conteo.
  
 **Características:**
@@ -58,7 +58,7 @@ Muestra cuánto tiempo llevas trabajando en la sesión actual de Blender, con op
 - Resumen con horas, minutos y segundos por separado
 - Panel integrado en la barra lateral (tecla N) → pestaña **Session Timer**
 ---
-## 🚀 Instalación
+##  Instalación
  
 Los pasos son los mismos para ambos add-ons:
  
@@ -69,7 +69,7 @@ Los pasos son los mismos para ambos add-ons:
 5. Activa el complemento marcando la casilla ✅
 ---
  
-## 📍 Ubicación en Blender
+##  Ubicación en Blender
  
 | Add-on | Ubicación |
 |--------|-----------|
@@ -78,19 +78,19 @@ Los pasos son los mismos para ambos add-ons:
  
 ---
  
-## 🛠️ Requisitos
+##  Requisitos
  
 - Blender 4.0 o superior (probado en Blender 5.1.2)
 - Sistema operativo: Windows, macOS o Linux
 ---
  
-## 📄 Licencia
+##  Licencia
  
 Este proyecto está distribuido bajo la licencia **GNU General Public License v2 (GPL v2)**, la misma licencia de Blender. Consulta el archivo [LICENSE](LICENSE) para más detalles.
  
 ---
  
-## 🤝 Contribuciones
+## Contribuciones
  
 ¡Las contribuciones son bienvenidas! Si encuentras un error o tienes una sugerencia:
  
