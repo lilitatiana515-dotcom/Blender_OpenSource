@@ -9,10 +9,10 @@ Universitaria de Colombia — Ingeniería de Software — Aplicaciones Open Sour
 
  ¿No tienes Blender instalado?
 Descarga Blender gratis desde la página oficial:
-🔗 https://www.blender.org/download/
+ https://www.blender.org/download/
 Es gratuito, de código abierto y disponible para Windows, macOS y Linux.
 ---
-## 📦 Add-ons disponibles
+##  Add-ons disponibles
  
 ### 1.  MultiExport Tools
 Exporta el objeto 3D activo en múltiples formatos de manera simultánea con un solo clic.
