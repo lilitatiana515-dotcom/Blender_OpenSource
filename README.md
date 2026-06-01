@@ -12,7 +12,7 @@ Descarga Blender gratis desde la página oficial:
  https://www.blender.org/download/
 Es gratuito, de código abierto y disponible para Windows, macOS y Linux.
 ---
-##  Add-ons disponibles
+##  Add-ons DISPONIBLES:
  
 ### 1.  MultiExport Tools
 Exporta el objeto 3D activo en múltiples formatos de manera simultánea con un solo clic.
@@ -66,7 +66,7 @@ Los pasos son los mismos para ambos add-ons:
 2. Abre Blender y ve a **Editar → Preferencias → Complementos**
 3. Haz clic en **"Instalar..."**
 4. Selecciona el archivo `.py`
-5. Activa el complemento marcando la casilla ✅
+5. Activa el complemento marcando la casilla 
 ---
  
 ##  Ubicación en Blender
