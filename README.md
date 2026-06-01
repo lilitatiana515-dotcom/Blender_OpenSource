@@ -75,6 +75,7 @@ Los pasos son los mismos para ambos add-ons:
 |--------|-----------|
 | MultiExport Tools | Vista 3D → Barra lateral (N) → pestaña **MultiExport** |
 | Quick Actions Panel | Vista 3D → Barra lateral (N) → pestaña **Quick Actions** |
+| Session Timer | Vista 3D → Barra lateral (N) → pestaña **Session Timer** |
  
 ---
  
