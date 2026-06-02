@@ -9,7 +9,9 @@ Universitaria de Colombia — Ingeniería de Software — Aplicaciones Open Sour
 
  ¿No tienes Blender instalado?
 Descarga Blender gratis desde la página oficial:
+ 
  https://www.blender.org/download/
+
 Es gratuito, de código abierto y disponible para Windows, macOS y Linux.
 ---
 ##  Add-ons DISPONIBLES:
